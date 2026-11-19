@@ -1,7 +1,9 @@
 # MadoHomu
 
-[Install MadoHomu](https://github.com/homura-ai/homucode/blob/main/docs/user/duet.md#install-madohomu)
+MadoHomu is a focused workspace for one project in [HomuCode](https://github.com/homura-ai/homucode).
 
-MadoHomu is a thin launcher for Duet, HomuCode’s focused Chat and Tasks view. It depends on [HomuCode](https://github.com/homura-ai/homucode) and shares its server, threads and settings. The implementation and installer live in HomuCode; this repository is only the installation entry point.
+Open **Settings → Homu Code → MadoHomu** to choose a project. To add a separate launcher,
+use the desktop app toggle in MadoHomu settings or follow the Linux installer instructions.
 
-The Linux installer downloads the latest HomuCode AppImage release. Source builds can use an existing AppImage via `MADOHOMU_RUNTIME`; see the install guide for details.
+[Use MadoHomu](https://github.com/homura-ai/homucode/blob/main/docs/user/madohomu.md) ·
+[Install the MadoHomu launcher](https://github.com/homura-ai/homucode/blob/main/docs/user/madohomu.md#install-the-madohomu-launcher)
